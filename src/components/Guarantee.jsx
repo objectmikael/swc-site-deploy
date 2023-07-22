@@ -5,7 +5,7 @@ export default function Guarantee() {
   return (
     <div className="guarantee">
       <div className="container">
-        <img src={guarantee} />
+        <img src={guarantee} alt='placeholder for guarantee'/>
         <div className="guarantee-content">
           <h2>Our Promise to You</h2>
           <p>
